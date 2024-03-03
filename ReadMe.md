@@ -1,6 +1,5 @@
 <div align= "center">
 <h1>Metacrafters Projects</h1>
-Project that has been assigned in the courses provided by Metacrafters.
 This repository has subfolders where you can find the solution code of the courses that I have completed.
 
 </div>
