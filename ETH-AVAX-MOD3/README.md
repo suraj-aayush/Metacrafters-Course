@@ -1,12 +1,12 @@
-# Arya Token (ARCH) Smart Contract
+# Aayush Token (ARCH) Smart Contract
 
 ## Overview
 
-Arya Token (ARCH) is an Ethereum-based ERC-20 token smart contract that provides basic functionalities for minting, burning, and transferring tokens. The contract owner has the exclusive right to mint new tokens.
+Aayush Token (ARCH) is an Ethereum-based ERC-20 token smart contract that provides basic functionalities for minting, burning, and transferring tokens. The contract owner has the exclusive right to mint new tokens.
 
 ## Contract Details
 
-- **Name:** Arya Token
+- **Name:** Aayush Token
 - **Symbol:** ARCH
 - **Decimals:** 18
 - **Total Supply:** Tracks the total supply of the token.
